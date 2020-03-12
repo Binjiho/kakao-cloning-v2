@@ -7,6 +7,7 @@
 @import "friends.css";
 @import "find.css";
 @import "more.css";
+@import "setting.css";
 
 *{
     /* 모든 element에 적용 : padding을 줘도 크기를 늘리지 마라 */
